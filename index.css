@@ -77,10 +77,11 @@ button {
 
 /* Estilização das imagens */
 .header .img {
+    
     max-width: 200px; /* Ajuste o tamanho conforme necessário */
     height: auto;
     border: 1px solid #ccc;
     border-radius: 5px;
-
+    flex: 1 1 200px;
     bottom: unset;
 }
